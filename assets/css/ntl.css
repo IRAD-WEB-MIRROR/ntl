@@ -1,0 +1,34 @@
+body{margin:0;background:#4a525a url("bg.png");font:12px/1.5 Tahoma,Verdana,Arial,sans-serif;color:#222}
+a{color:#b4380e}a:hover{color:#e05a00}
+#all{width:990px;margin:0 auto;background:#fff;box-shadow:0 0 12px #222}
+#hd{height:132px;position:relative;background:linear-gradient(#e9ecef 0,#c3c9cf 48%,#aab1b8 50%,#cfd4d9 100%);border-bottom:4px solid #e05a00;overflow:hidden}
+#hd .gear{position:absolute;left:14px;top:12px;width:108px;height:108px}
+#hd .n1{position:absolute;left:136px;top:26px;font:bold 27px Arial,sans-serif;color:#2c3e50;text-shadow:1px 1px 0 #fff;letter-spacing:-.5px}
+#hd .n2{position:absolute;left:138px;top:62px;font:bold 13px Arial;color:#e05a00;text-transform:uppercase;letter-spacing:2px}
+#hd .n3{position:absolute;left:138px;top:84px;font:11px Tahoma;color:#4b5864}
+#hd .pic{position:absolute;right:0;top:0;width:330px;height:132px;background:linear-gradient(90deg,rgba(207,212,217,1),rgba(207,212,217,0) 40%),url("../img/sparks.svg") right/cover}
+#mn{background:linear-gradient(#3c4650,#232a31);height:34px;border-bottom:1px solid #111}
+#mn a{float:left;display:block;height:34px;line-height:13px;padding:4px 15px 0;color:#fff;text-decoration:none;font:bold 11px Tahoma;border-right:1px solid #4d5862;box-sizing:border-box;text-align:center}
+#mn a i{display:block;font:normal 10px Tahoma;color:#aab4be;font-style:normal}
+#mn a:hover,#mn a.on{background:#e05a00}#mn a:hover i,#mn a.on i{color:#ffe0c8}
+#run{background:#fff7d6;border-bottom:1px solid #e6d58a;padding:3px 10px;font-size:11px;color:#8a4a00;white-space:nowrap;overflow:hidden}
+#cols{display:table;width:100%}
+#l{display:table-cell;width:210px;background:#eef0f2;border-right:1px solid #d3d7db;padding:10px;vertical-align:top}
+#c{display:table-cell;padding:14px 18px 20px;vertical-align:top}
+.bx{background:#fff;border:1px solid #c9ced3;margin:0 0 10px}
+.bx h4{margin:0;background:linear-gradient(#f5f6f7,#dde1e4);border-bottom:1px solid #c9ced3;padding:4px 8px;font:bold 11px Tahoma;color:#2c3e50;text-transform:uppercase}
+.bx div{padding:6px 8px;font-size:11px}
+.spon{display:block;text-align:center;border:1px solid #c9ced3;background:#0d3c74;color:#fff;font:bold 13px Arial;padding:12px 4px;text-decoration:none;margin:0 0 10px}
+.spon small{display:block;color:#ffc94d;font:10px Tahoma;margin-top:3px}
+h1{font:bold 19px Arial;color:#2c3e50;margin:0 0 10px;padding:0 0 5px;border-bottom:2px solid #e05a00}
+h2{font:bold 14px Arial;color:#e05a00;margin:16px 0 6px}
+.nw{border-bottom:1px dotted #bbb;padding:7px 0}.nw .d{font:bold 11px Tahoma;color:#fff;background:#e05a00;padding:0 5px;margin-right:6px}
+table.t{border-collapse:collapse;width:100%;margin:6px 0 12px}
+table.t th{background:#3c4650;color:#fff;font:bold 11px Tahoma;padding:4px 6px;text-align:left}
+table.t td{border:1px solid #d3d7db;padding:4px 6px;vertical-align:top}
+table.t tr:nth-child(odd) td{background:#f6f7f8}
+.fl{float:right;margin:0 0 8px 12px;border:1px solid #999;padding:3px;background:#fff;width:240px;font-size:10px;color:#666}
+.fl img{width:100%;display:block}
+#ft{background:#232a31;color:#9aa5af;font-size:11px;padding:10px 14px;overflow:hidden}
+#ft a{color:#fff}#ft .r{float:right;text-align:right}
+.cnt{display:inline-block;background:#000;color:#3f3;font:bold 12px "Courier New";padding:1px 5px;border:2px inset #777}
